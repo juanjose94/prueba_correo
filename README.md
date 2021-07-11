@@ -1,2 +1,2 @@
 # prueba_correo
-Para probar como estan esos correos papá!
+Proyecto para simular el envio de correos con diferentes dominios
